@@ -1,0 +1,11 @@
+.title {
+  color: blue;
+}
+img {
+  width:200px;
+  height:200px;
+}
+.contents-item {
+  list-style:none;
+  float: left;
+}
